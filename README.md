@@ -1,2 +1,2 @@
-#Juego En JavaScript
+*Juego En JavaScript
 :D
